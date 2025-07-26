@@ -192,6 +192,145 @@ ________________________________________
 
 
 
+# 1)meta-llama/Llama-3.3-70B-Instruct
+
+
+•Precision = bfloat16
+
+•Params (B) = 70.6
+
+•Average Accuracy = 70.364
+
+•Part Multiple Choice = 51.42
+
+•ARC Easy = 95.4
+
+•ARC Challenge = 89.93
+
+•MMLU Pro = 43.67
+
+•AUT Multiple Choice Persian = 71.4
+
+
+# 2) google/gemma-3-27b-it
+
+
+•Precision = bfloat16
+
+•Params (B) = 27.4
+
+•Average Accuracy = 67.85
+
+•Part Multiple Choice = 48.56
+
+•ARC Easy = 95.69
+
+•ARC Challenge = 90.6
+
+•MMLU Pro = 40.1
+
+•AUT Multiple Choice Persian = 64.3
+
+
+# 3) google/gemma-2-27b-it
+
+•Precision = bfloat16
+
+•Params (B) = 27.2
+
+•Average Accuracy = 65.464
+
+•Part Multiple Choice = 46.03
+
+•ARC Easy = 95.98
+
+•ARC Challenge = 85.91
+
+•MMLU Pro = 36.28
+
+•AUT Multiple Choice Persian = 63.12
+
+
+# 4) Qwen/QwQ-32B-Preview
+
+•Precision = bfloat16
+
+•Params (B) = 32.8
+
+•Average Accuracy = 64.784
+
+•Part Multiple Choice = 46.64
+
+•ARC Easy = 91.95
+
+•ARC Challenge = 87.24
+
+•MMLU Pro = 37.94
+
+•AUT Multiple Choice Persian = 60.15
+
+# 5) Qwen/Qwen2.5-32B-Instruct
+
+•Precision = bfloat16
+
+•Params (B) = 32.8
+
+•Average Accuracy = 64.46
+
+•Part Multiple Choice = 46.06
+
+•ARC Easy = 90.8
+
+•ARC Challenge = 85.91
+
+•MMLU Pro = 38.19
+
+•AUT Multiple Choice Persian = 61.34
+
+# 6) google/gemma-2-9b-it
+
+•Precision = bfloat16
+
+•Params (B) = 9.24
+
+•Average Accuracy = 62.886
+
+•Part Multiple Choice = 42.7
+
+•ARC Easy = 93.1
+
+•ARC Challenge = 84.56
+
+•MMLU Pro = 31.74
+
+•AUT Multiple Choice Persian = 62.33
+
+# 7) CohereLabs/aya-expanse-32b
+
+•Precision = float16
+
+•Params (B) = 32.3
+
+•Average Accuracy = 61.938
+
+•Part Multiple Choice = 43.36
+
+•ARC Easy = 93.1
+
+•ARC Challenge = 79.87
+
+•MMLU Pro = 31.03
+
+•AUT Multiple Choice Persian = 62.33
+
+
+
+
+
+
+
+
+
 
 
 
