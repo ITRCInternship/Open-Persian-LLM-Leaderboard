@@ -341,6 +341,50 @@ ________________________________________
 
 •AUT Multiple Choice Persian = 58.38
 
+# 9) Qwen/Qwen2.5-7B-Instruct
+
+•Precision = bfloat16
+
+•Params (B) = 7.62
+
+•Average Accuracy = 51.898
+
+•Part Multiple Choice = 36.72
+
+•ARC Easy = 79.02
+
+•ARC Challenge = 69.13
+
+•MMLU Pro = 21.96
+
+•AUT Multiple Choice Persian = 52.66
+
+
+# 10) Qwen/Qwen2-7B-Instruct
+
+•Precision = bfloat16
+
+•Params (B) = 7.62
+
+•Average Accuracy = 51.442
+
+•Part Multiple Choice = 35.9
+
+•ARC Easy = 77.3
+
+•ARC Challenge = 68.46
+
+•MMLU Pro = 23.87
+
+•AUT Multiple Choice Persian = 51.68
+
+
+
+
+
+
+
+
 
 
 
