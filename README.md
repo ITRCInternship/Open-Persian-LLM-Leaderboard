@@ -323,6 +323,25 @@ ________________________________________
 
 •AUT Multiple Choice Persian = 62.33
 
+# 8)  CohereLabs/aya-expanse-8b
+
+•Precision = float16
+
+•Params (B) = 8.03
+
+•Average Accuracy = 53.684
+
+•Part Multiple Choice = 34.91
+
+•ARC Easy = 79.6
+
+•ARC Challenge = 70.47
+
+•MMLU Pro = 25.06
+
+•AUT Multiple Choice Persian = 58.38
+
+
 
 
 
