@@ -1,4 +1,4 @@
-# Research on classifying Persian texts (tweets/comments) with LLM and their results.
+# Researching on classifying Persian texts (tweets/comments) with LLM and their results.
 # چکیده
 
    با گسترش شبکه‌های اجتماعی، تولید محتوای متنی در زبان فارسی به‌ویژه در قالب نظرات و توییت‌ها افزایش یافته است. طبقه‌بندی خودکار این متون می‌تواند نقش مهمی در تحلیل احساسات، شناسایی محتوای توهین‌آمیز و تشخیص اسپم ایفا کند. در این پژوهش، به بررسی عملکرد مدل‌های زبانی بزرگ (LLM) در طبقه‌بندی متون فارسی می‌پردازیم. 
@@ -261,6 +261,8 @@ ________________________________________
 •MMLU Pro = 40.1
 
 •AUT Multiple Choice Persian = 64.3
+
+
 
 
 # 3) google/gemma-2-27b-it
